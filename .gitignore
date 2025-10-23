@@ -1,0 +1,7 @@
+.venv/
+data/raw/household_power_consumption.txt
+data/raw/household_power_consumption.csv
+__pycache__/
+*.pyc
+data/raw/
+*.csv
